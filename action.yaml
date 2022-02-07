@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name: My first tweeter action
+author: vaibhav
+description: trying first GA.
 inputs:
   message:
     description: 'message you want to tweet'
