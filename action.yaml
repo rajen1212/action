@@ -1,6 +1,6 @@
-name: My first tweeter action
+name: My first tweeter action test
 author: vaibhav
-description: trying first GA.
+description: trying first Github Action.
 inputs:
   message:
     description: 'message you want to tweet'
